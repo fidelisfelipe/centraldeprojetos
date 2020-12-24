@@ -1,3 +1,3 @@
 <?php
-  include_once("Coporate/index.html");
+  include_once("Corporate/index.html");
 ?>
